@@ -38,6 +38,7 @@ const rapxi = {
 
 <br/>
 
+
 <div align="center">
 
 ## ⚡ Tech Stack
@@ -86,6 +87,7 @@ const rapxi = {
 
 <br/>
 
+
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <div align="center">
@@ -99,6 +101,27 @@ const rapxi = {
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rapxi&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
+<br/>
+
+**🐍 Contribution Snake**
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rapxi/rapxi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rapxi/rapxi/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/rapxi/rapxi/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+
+<div align="center">
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=rapxi&style=flat-square&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>

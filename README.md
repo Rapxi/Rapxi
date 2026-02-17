@@ -94,16 +94,11 @@ const rapxi = {
 
 ## 📊 GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=rapxi&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117" height="160"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rapxi&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117" height="160"/>
-
-<br/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=rapxi&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
 
 <br/>
 
-**🐍 Contribution Snake**
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rapxi/rapxi/output/github-contribution-grid-snake-dark.svg"/>
@@ -112,7 +107,3 @@ const rapxi = {
 </picture>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-

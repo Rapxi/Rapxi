@@ -79,7 +79,7 @@ const rapxi = {
 
 ## 🚀 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rapxi&repo=RDP-HelperE&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117)](https://github.com/rapxi/RDP-Helper)
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rapxi&repo=RDP-Helper&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117)](https://github.com/rapxi/RDP-Helper)
 
 
 [![forthcoming](https://img.shields.io/badge/Status-Coming%20Soon-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/rapxi)
@@ -109,3 +109,4 @@ const rapxi = {
 
 
 </div>
+

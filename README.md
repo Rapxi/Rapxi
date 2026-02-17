@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=160&section=header&text=Hey,%20I'm%20Rapxi&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Building%20in%20the%20dark,%20one%20commit%20at%20a%20time&descAlignY=75&descSize=14&descColor=00d4ff" width="100%"/>
 
 
-<a href="https://github.com/rapxi">
+<a href="https://github.com/Rapxi">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D4FF&center=true&vCenter=true&width=600&lines=Hobby+Developer+%F0%9F%92%BB;Fullstack+Cert+in+Progress+%F0%9F%8E%AF;Based+in+Germany+%F0%9F%87%A9%F0%9F%87%AA;Always+Building+Something+%F0%9F%94%A8" alt="Typing SVG" />
 </a>
 
@@ -20,7 +20,7 @@
 
 <br/>
 
-
+<!-- ═══════════════════ ABOUT ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ```typescript
@@ -79,10 +79,7 @@ const rapxi = {
 
 ## 🚀 Featured Projects
 
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=Rapxi&repo=RDP-Helper&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117)](https://github.com/Rapxi/RDP-Helper)
-
-
-[![forthcoming](https://img.shields.io/badge/Status-Coming%20Soon-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/rapxi)
+[![RDP-Helper](https://img.shields.io/badge/RDP--Helper-View%20Project-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Rapxi/RDP-Helper)
 
 </div>
 
@@ -95,19 +92,34 @@ const rapxi = {
 
 ## 📊 GitHub Stats
 
-
-![GitHub Streak](https://streak-stats.demolab.com?user=rapxi&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
+<img src="https://github-readme-stats.vercel.app/api?username=Rapxi&show_icons=true&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&text_color=ffffff&bg_color=0d1117" height="160"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rapxi&layout=compact&theme=github_dark&hide_border=true&title_color=00d4ff&text_color=ffffff&bg_color=0d1117" height="160"/>
 
 <br/>
 
+![GitHub Streak](https://streak-stats.demolab.com?user=Rapxi&theme=github-dark-blue&hide_border=true&ring=00d4ff&fire=00d4ff&currStreakLabel=00d4ff)
+
+<br/>
+
+**🐍 Contribution Snake**
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rapxi/rapxi/output/github-contribution-grid-snake-dark.svg"/>
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rapxi/rapxi/output/github-contribution-grid-snake.svg"/>
-  <img alt="github-snake" src="https://raw.githubusercontent.com/rapxi/rapxi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Rapxi/rapxi/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Rapxi/rapxi/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Rapxi/rapxi/output/github-contribution-grid-snake-dark.svg"/>
 </picture>
-
 
 </div>
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
+
+<div align="center">
+
+<br/>
+
+![Visitor Count](https://komarev.com/ghpvc/?username=Rapxi&style=flat-square&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
+
+</div>

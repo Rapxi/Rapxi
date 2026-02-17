@@ -1,8 +1,7 @@
 <div align="center">
 
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=160&section=header&text=Hey,%20I'm%20Rapxi&fontSize=42&fontColor=ffffff&fontAlignY=55&animation=fadeIn&desc=Building%20in%20the%20dark,%20one%20commit%20at%20a%20time&descAlignY=75&descSize=14&descColor=00d4ff" width="100%"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=160&section=header&text=Hey,%20I'm%20Rapxi&fontSize=42&fontColor=ffffff&fontAlignY=65&animation=fadeIn" width="100%"/>
 
 
 <br/>
@@ -140,4 +139,5 @@ const rapxi = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
 

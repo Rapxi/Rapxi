@@ -116,12 +116,3 @@ const rapxi = {
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 
-<div align="center">
-
-<br/>
-
-![Visitor Count](https://komarev.com/ghpvc/?username=rapxi&style=flat-square&color=00d4ff&label=PROFILE+VIEWS&labelColor=0d1117)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
-
-</div>

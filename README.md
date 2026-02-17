@@ -20,7 +20,6 @@
 
 <br/>
 
-<!-- ═══════════════════ ABOUT ═══════════════════ -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ```typescript
@@ -48,6 +47,7 @@ const rapxi = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![AutoHotkey](https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white)
+![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 
 **Web & Tools**
 
@@ -74,12 +74,32 @@ const rapxi = {
 
 <br/>
 
-
 <div align="center">
 
 ## 🚀 Featured Projects
 
-[![RDP-Helper](https://img.shields.io/badge/RDP--Helper-View%20Project-00d4ff?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Rapxi/RDP-Helper)
+<table>
+  <tr>
+    <td>
+      <h3>🖥️ RDP-Helper</h3>
+      <b>Remote Desktop utility tool built with AutoHotkey v2</b>
+      <br/><br/>
+      <blockquote>
+        🔧 &nbsp;<b>Technologies:</b> AutoHotkey v2, Powershell<br/>
+        🎯 &nbsp;<b>Purpose:</b> Automate the Setting up of an RDP<br/>
+        ✨ &nbsp;<b>Features:</b> User Creation, RDP Software & Wrapper installation
+      </blockquote>
+      <br/> 
+      <img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Rapxi/RDP-Helper">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+    </td>
+  </tr>
+</table>
 
 </div>
 

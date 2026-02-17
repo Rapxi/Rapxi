@@ -79,7 +79,8 @@ const rapxi = {
 
 ## 🚀 Featured Projects
 
-> **`[INITIALIZING...]`** — Projects dropping soon. Watch this space. 👀
+[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=rapxi&repo=YOUR-REPO-NAME&theme=github_dark&hide_border=true&title_color=00d4ff&icon_color=00d4ff&bg_color=0d1117)](https://github.com/rapxi/YOUR-REPO-NAME)
+
 
 [![forthcoming](https://img.shields.io/badge/Status-Coming%20Soon-ff6b6b?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/rapxi)
 

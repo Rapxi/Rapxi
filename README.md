@@ -25,7 +25,7 @@
 const rapxi = {
   role      : "Hobby Developer",
   location  : "Germany 🇩🇪",
-  languages : ["JavaScript", "Python", "AutoHotkey v2"],
+  languages : ["JavaScript", "Python", "AutoHotkey v2", "Powershell],
   currently : "Grinding the freeCodeCamp Fullstack Certification",
   interests : ["Automation", "Web Dev", "Building Cool Stuff"],
   motto     : "If it's boring, automate it.",
@@ -142,6 +142,7 @@ const rapxi = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
 
 
 

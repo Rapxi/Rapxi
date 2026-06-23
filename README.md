@@ -26,8 +26,8 @@ const rapxi = {
   role      : "Hobby Developer",
   location  : "Germany 🇩🇪",
   languages : ["JavaScript", "Python", "AutoHotkey v2", "Powershell"],
-  currently : "Grinding the freeCodeCamp Fullstack Certification",
-  interests : ["Automation", "Web Dev", "Building Cool Stuff"],
+  currently : ["Learning ML(numpy)", "Building PS99 Macro"],
+  interests : ["Automation", "Backend", "Machine Learning"],
   motto     : "If it's boring, automate it.",
 };
 ```

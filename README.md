@@ -79,7 +79,24 @@ const rapxi = {
 
 <table>
   <tr>
-    <td>
+    <td valign="top" width="47%">
+      <h3>🔢 Kaprekar's Constant</h3>
+      <b>Digit-shuffling number theory tool built in Python</b>
+      <br/><br/>
+      <blockquote>
+        🔧 &nbsp;<b>Technologies:</b> Python<br/>
+        🎯 &nbsp;<b>Purpose:</b> Demonstrate Kaprekar's routine, converging any 4-digit number to 6174<br/>
+        ✨ &nbsp;<b>Features:</b> Input validation, ascending/descending digit sort, step-by-step output
+      </blockquote>
+      <br/> 
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Rapxi/Kaprekars-Constant">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+    </td>
+    <td width="6%"></td>
+    <td valign="top" width="47%">
       <h3>🖥️ RDP-Helper</h3>
       <b>Remote Desktop utility tool built with AutoHotkey v2</b>
       <br/><br/>
@@ -94,24 +111,6 @@ const rapxi = {
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
 &nbsp;
 <a href="https://github.com/Rapxi/RDP-Helper">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-    </td>
-  </tr>
-  <tr>
-    <td>
-      <h3>🔢 Kaprekar's Constant</h3>
-      <b>Digit-shuffling number theory tool built in Python</b>
-      <br/><br/>
-      <blockquote>
-        🔧 &nbsp;<b>Technologies:</b> Python<br/>
-        🎯 &nbsp;<b>Purpose:</b> Demonstrate Kaprekar's routine, converging any 4-digit number to 6174<br/>
-        ✨ &nbsp;<b>Features:</b> Input validation, ascending/descending digit sort, step-by-step output
-      </blockquote>
-      <br/> 
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<a href="https://github.com/Rapxi/Kaprekars-Constant">
   <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
 </a>
     </td>

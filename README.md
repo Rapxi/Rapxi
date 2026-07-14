@@ -76,58 +76,46 @@ const rapxi = {
 <div align="center">
 
 ## 🚀 Featured Projects
-
 <table>
   <tr>
-    <!-- Project 1: Kaprekar's Constant -->
-    <td valign="top" width="50%">
+    <td valign="top" width="47%">
+      <h3>🔢 Kaprekar's Constant</h3>
+      <b>Digit-shuffling number theory tool built in Python</b>
       <br/>
-      <h3 align="center">🔢 Kaprekar's Constant</h3>
-      <p align="center"><i>An interactive mathematical engine exploring deterministic number theory and algorithm convergence.</i></p>
-      <hr>
-      <ul>
-        <li><b>Core Logic:</b> Recursively processes 4-digit integers to demonstrate Kaprekar's routine, reliably converging at the constant 6174.</li>
-        <li><b>Robust Architecture:</b> Features strict input validation, dynamic conditional sorting (ascending/descending), and clean step-by-step mathematical tracing.</li>
-      </ul>
-      <br/>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-        <br/><br/>
-        <a href="https://github.com/Rapxi/Kaprekars-Constant" target="_blank">
-          <img src="https://img.shields.io/badge/Explore%20Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-      <br/>
+      <blockquote>
+        🔧 &nbsp;<b>Technologies:</b> Python<br/>
+        🎯 &nbsp;<b>Purpose:</b> Demonstrate Kaprekar's routine, converging any 4-digit number to 6174<br/>
+        ✨ &nbsp;<b>Features:</b> Input validation, ascending/descending digit sort, step-by-step output
+      </blockquote>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Rapxi/Kaprekars-Constant">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
     </td>
-
-    <!-- Project 2: RDP-Helper -->
-    <td valign="top" width="50%">
+    <td width="6%"></td>
+    <td valign="top" width="47%">
+      <h3>🖥️ RDP-Helper</h3>
+      <b>Remote Desktop utility tool built with AutoHotkey v2</b>
       <br/>
-      <h3 align="center">🖥️ RDP-Helper</h3>
-      <p align="center"><i>A lightweight automation utility designed to rapidly streamline remote desktop provisioning.</i></p>
-      <hr>
-      <ul>
-        <li><b>Automation Focus:</b> Built explicitly to eliminate repetitive manual configuration, honoring the profile motto: <i>"If it's boring, automate it."</i></li>
-        <li><b>Core Capabilities:</b> Handles seamless user creation, automatic RDP wrapper installation, software deployment, and PowerShell execution.</li>
-      </ul>
-      <br/>
-      <div align="center">
-        <img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=flat-square&logo=autohotkey&logoColor=white"/>
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
-        <br/><br/>
-        <a href="https://github.com/Rapxi/RDP-Helper" target="_blank">
-          <img src="https://img.shields.io/badge/Explore%20Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-        </a>
-      </div>
-      <br/>
+      <blockquote>
+        🔧 &nbsp;<b>Technologies:</b> AutoHotkey v2, Powershell<br/>
+        🎯 &nbsp;<b>Purpose:</b> Automate the Setting up of an RDP<br/>
+        ✨ &nbsp;<b>Features:</b> User Creation, RDP Software & Wrapper installation
+      </blockquote>
+      <img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Rapxi/RDP-Helper">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
     </td>
   </tr>
 </table>
-
 </div>
 
 <br/>
-
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -166,8 +154,6 @@ const rapxi = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
-
-
 
 
 

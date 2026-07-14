@@ -77,48 +77,49 @@ const rapxi = {
 
 ## 🚀 Featured Projects
 
-<table align="Left">
+<table>
   <tr>
-    <td>
-      <h3>🖥️ RDP-Helper</h3>
-      <b>Remote Desktop utility tool built with AutoHotkey v2</b>
-      <br/><br/>
-      <blockquote>
-        🔧 &nbsp;<b>Technologies:</b> AutoHotkey v2, Powershell<br/>
-        🎯 &nbsp;<b>Purpose:</b> Automate the Setting up of an RDP<br/>
-        ✨ &nbsp;<b>Features:</b> User Creation, RDP Software & Wrapper installation
-      </blockquote>
-      <br/> 
-      <img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-&nbsp;
-<a href="https://github.com/Rapxi/RDP-Helper">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-    </td>
-  </tr>
-</table>
-
-<table align="Right">
-  <tr>
-    <td>
-      <h3> TESTING </h3>
-      <b> TESTING </b>
-      <br/></br>
-      <blockquote>
-        <b> TESTING 1 </b>
-        <b> TESTING 2 </b>
-        <b> TESTING 3 </b>
-      </blockquote>
+    <!-- Project 1: Kaprekar's Constant -->
+    <td valign="top" width="50%">
       <br/>
-      img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-&nbsp;
-<a href="https://github.com/Rapxi/RDP-Helper">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+      <h3 align="center">🔢 Kaprekar's Constant</h3>
+      <p align="center"><i>An interactive mathematical engine exploring deterministic number theory and algorithm convergence.</i></p>
+      <hr>
+      <ul>
+        <li><b>Core Logic:</b> Recursively processes 4-digit integers to demonstrate Kaprekar's routine, reliably converging at the constant 6174.</li>
+        <li><b>Robust Architecture:</b> Features strict input validation, dynamic conditional sorting (ascending/descending), and clean step-by-step mathematical tracing.</li>
+      </ul>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/Rapxi/Kaprekars-Constant" target="_blank">
+          <img src="https://img.shields.io/badge/Explore%20Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </div>
+      <br/>
+    </td>
+
+    <!-- Project 2: RDP-Helper -->
+    <td valign="top" width="50%">
+      <br/>
+      <h3 align="center">🖥️ RDP-Helper</h3>
+      <p align="center"><i>A lightweight automation utility designed to rapidly streamline remote desktop provisioning.</i></p>
+      <hr>
+      <ul>
+        <li><b>Automation Focus:</b> Built explicitly to eliminate repetitive manual configuration, honoring the profile motto: <i>"If it's boring, automate it."</i></li>
+        <li><b>Core Capabilities:</b> Handles seamless user creation, automatic RDP wrapper installation, software deployment, and PowerShell execution.</li>
+      </ul>
+      <br/>
+      <div align="center">
+        <img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=flat-square&logo=autohotkey&logoColor=white"/>
+        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white"/>
+        <br/><br/>
+        <a href="https://github.com/Rapxi/RDP-Helper" target="_blank">
+          <img src="https://img.shields.io/badge/Explore%20Repository-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+        </a>
+      </div>
+      <br/>
     </td>
   </tr>
 </table>
@@ -165,6 +166,7 @@ const rapxi = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
 
 
 

@@ -100,6 +100,29 @@ const rapxi = {
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td>
+      <h3> TESTING </h3>
+      <b> TESTING </b>
+      <br/></br>
+      <blockquote>
+        <b> TESTING 1 </b>
+        <b> TESTING 2 </b>
+        <b> TESTING 3 </b>
+      </blockquote>
+      <br/>
+      img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
+&nbsp;
+<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+&nbsp;
+<a href="https://github.com/Rapxi/RDP-Helper">
+  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+</a>
+    </td>
+  </tr>
+</table>
+
 </div>
 
 <br/>

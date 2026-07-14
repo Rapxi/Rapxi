@@ -77,7 +77,7 @@ const rapxi = {
 
 ## 🚀 Featured Projects
 
-<table>
+<table align="Left">
   <tr>
     <td>
       <h3>🖥️ RDP-Helper</h3>
@@ -100,7 +100,7 @@ const rapxi = {
   </tr>
 </table>
 
-<table>
+<table align="Right">
   <tr>
     <td>
       <h3> TESTING </h3>

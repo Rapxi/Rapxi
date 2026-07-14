@@ -76,9 +76,10 @@ const rapxi = {
 <div align="center">
 
 ## 🚀 Featured Projects
-<table>
+
+<table align="left" width="48%">
   <tr>
-    <td valign="top" width="47%">
+    <td valign="top">
       <h3>🔢 Kaprekar's Constant</h3>
       <b>Digit-shuffling number theory tool built in Python</b>
       <br/>
@@ -88,13 +89,17 @@ const rapxi = {
         ✨ &nbsp;<b>Features:</b> Input validation, ascending/descending digit sort, step-by-step output
       </blockquote>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<a href="https://github.com/Rapxi/Kaprekars-Constant">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+      &nbsp;
+      <a href="https://github.com/Rapxi/Kaprekars-Constant">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+      </a>
     </td>
-    <td width="6%"></td>
-    <td valign="top" width="47%">
+  </tr>
+</table>
+
+<table align="right" width="48%">
+  <tr>
+    <td valign="top">
       <h3>🖥️ RDP-Helper</h3>
       <b>Remote Desktop utility tool built with AutoHotkey v2</b>
       <br/>
@@ -104,15 +109,18 @@ const rapxi = {
         ✨ &nbsp;<b>Features:</b> User Creation, RDP Software & Wrapper installation
       </blockquote>
       <img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
-&nbsp;
-<img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
-&nbsp;
-<a href="https://github.com/Rapxi/RDP-Helper">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
+      &nbsp;
+      <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
+      &nbsp;
+      <a href="https://github.com/Rapxi/RDP-Helper">
+        <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
+      </a>
     </td>
   </tr>
 </table>
+
+<br clear="all"/>
+
 </div>
 
 <br/>

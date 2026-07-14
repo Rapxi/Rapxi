@@ -76,33 +76,19 @@ const rapxi = {
 <div align="center">
 
 ## 🚀 Featured Projects
+
 <table>
   <tr>
-    <td valign="top" width="47%">
-      <h3>🔢 Kaprekar's Constant</h3>
-      <b>Digit-shuffling number theory tool built in Python</b>
-      <br/>
-      <blockquote>
-        🔧 &nbsp;<b>Technologies:</b> Python<br/>
-        🎯 &nbsp;<b>Purpose:</b> Demonstrate Kaprekar's routine, converging any 4-digit number to 6174<br/>
-        ✨ &nbsp;<b>Features:</b> Input validation, ascending/descending digit sort, step-by-step output
-      </blockquote>
-      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-&nbsp;
-<a href="https://github.com/Rapxi/Kaprekars-Constant">
-  <img src="https://img.shields.io/badge/VIEW%20PROJECT-00d4ff?style=for-the-badge&logo=github&logoColor=black"/>
-</a>
-    </td>
-    <td width="6%"></td>
-    <td valign="top" width="47%">
+    <td>
       <h3>🖥️ RDP-Helper</h3>
       <b>Remote Desktop utility tool built with AutoHotkey v2</b>
-      <br/>
+      <br/><br/>
       <blockquote>
         🔧 &nbsp;<b>Technologies:</b> AutoHotkey v2, Powershell<br/>
         🎯 &nbsp;<b>Purpose:</b> Automate the Setting up of an RDP<br/>
         ✨ &nbsp;<b>Features:</b> User Creation, RDP Software & Wrapper installation
       </blockquote>
+      <br/> 
       <img src="https://img.shields.io/badge/AutoHotkey%20v2-334455?style=for-the-badge&logo=autohotkey&logoColor=white"/>
 &nbsp;
 <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white"/>
@@ -113,9 +99,11 @@ const rapxi = {
     </td>
   </tr>
 </table>
+
 </div>
 
 <br/>
+
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -154,3 +142,7 @@ const rapxi = {
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:00d4ff,100:0d1117&height=100&section=footer" width="100%"/>
 
 </div>
+
+
+
+
